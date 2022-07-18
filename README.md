@@ -48,7 +48,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 - Imbalance Problems in Object Detection: A Review [[TPAMI 2020](https://arxiv.org/pdf/1909.00169)]
 
-- Salient Object Detection in the Deep Learning Era: An In-Depth Survey [[TPAMI 2021](https://arxiv.org/pdf/1904.09146.pdf%C2%A0%E8%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E8%AF%AF%E5%8C%BA%E5%8F%8A%E7%BF%BB%E8%AF%91%E9%94%99%E8%AF%AF%EF%BC%8C%E6%81%B3%E8%AF%B7%E5%8F%8A%E6%97%B6%E8%AF%84%E8%AE%BA%E6%8C%87%E6%AD%A3%E3%80%82)]
+- Salient Object Detection in the Deep Learning Era: An In-Depth Survey [[TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9320524/)]
 
 ### Region Proposal Based (Two Stage) Frameworks
 
@@ -61,6 +61,12 @@ If you would like to contribute to our repository or have any questions/advice, 
 - Fast R-CNN [[ICCV 2015](https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)] [[Code](https://github.com/rbgirshick/fast-rcnn)] (**Fast R-CNN**)
 
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[NeurIPS 2015](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)] [[Code](https://github.com/ShaoqingRen/faster_rcnn)] (**Faster R-CNN**)
+
+- R-FCN: Object Detection via Region-based Fully Convolutional Networks [[NeurIPS 2016](https://proceedings.neurips.cc/paper/2016/file/577ef1154f3240ad5b9b413aa7346a1e-Paper.pdf)] [[Code](https://github.com/daijifeng001/r-fcn)] (**R-FCN**)
+
+- Feature Pyramid Networks for Object Detection [[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.html)] (**FPN**)
+
+- Mask R-CNN [[ICCV 2017](https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)] (**Mask R-CNN**)
 
 ### Unified (One Stage) Frameworks
 
@@ -112,6 +118,9 @@ If you would like to contribute to our repository or have any questions/advice, 
 |  CVPR 2014  |  [1]  |
 |  ICCV 2015  |  [13]  |
 |  NeurIPS 2015  |  [15]  |
+|  NeurIPS 2016  |  [16]  |
+|  CVPR 2017  |  [17]  |
+|  ICCV 2017  |  [18]  |
 
 [1] Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation [[CVPR 2014](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)] (**R-CNN**) ([Region Proposal Based (Two Stage) Frameworks](#region-proposal-based-two-stage-frameworks)
 
@@ -142,6 +151,12 @@ If you would like to contribute to our repository or have any questions/advice, 
 [14] Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition [[TPAMI 2015](https://arxiv.org/abs/1406.4729)] (**SPP-net**) ([Region Proposal Based (Two Stage) Frameworks](#region-proposal-based-two-stage-frameworks)
 
 [15] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[NeurIPS 2015](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)] [[Code](https://github.com/ShaoqingRen/faster_rcnn)] (**Faster R-CNN**) ([Region Proposal Based (Two Stage) Frameworks](#region-proposal-based-two-stage-frameworks)
+
+[16] R-FCN: Object Detection via Region-based Fully Convolutional Networks [[NeurIPS 2016](https://proceedings.neurips.cc/paper/2016/file/577ef1154f3240ad5b9b413aa7346a1e-Paper.pdf)] [[Code](https://github.com/daijifeng001/r-fcn)] (**R-FCN**) ([Region Proposal Based (Two Stage) Frameworks](#region-proposal-based-two-stage-frameworks)
+
+[17] Feature Pyramid Networks for Object Detection [[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.html)] (**FPN**) ([Region Proposal Based (Two Stage) Frameworks](#region-proposal-based-two-stage-frameworks)
+
+[18] Mask R-CNN [[ICCV 2017](https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)] (**Mask R-CNN**) ([Region Proposal Based (Two Stage) Frameworks](#region-proposal-based-two-stage-frameworks)
 
 ## Contributing & Contact
 
